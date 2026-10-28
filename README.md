@@ -46,4 +46,4 @@ The reference hash is stored in memory only and is lost when the program exits. 
 Project files
 - file_integrity_monitor.py — complete source code
 - README.md — project documentation
-- project_report.docx — step-by-step project report with example output screenshots
+- project_report.docx — https://docs.google.com/document/d/1j_LO4ioM4jPjQMg1CrgK0DiEFPIkOBY_NbdGKUimUME/edit?usp=sharing
